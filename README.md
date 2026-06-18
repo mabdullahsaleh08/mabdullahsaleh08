@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M Abdullah Saleh</h1>
 <h3 align="center">A full stack developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **CyberSecurity(MS), Frameworks, Machine Learning**
+- 🌱 I’m currently learning **Frameworks, Machine Learning**
 
 - 📫 How to reach me **m.abdullahsaleh01@gmail.com**
 
